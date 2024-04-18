@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-mergeDebugResources-14:\\layout\\activity_right.xml",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-mergeDebugResources-14:\\layout\\activity_basic_detail.xml",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_basic_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-mergeDebugResources-14:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-mergeDebugResources-14:\\layout\\activity_show_score.xml",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_show_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-mergeDebugResources-14:\\layout\\activity_question.xml",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-mergeDebugResources-14:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.quiz.app-mergeDebugResources-14:/layout/activity_question.xml",
+        "source": "com.example.quiz.app-main-17:/layout/activity_question.xml"
+    }
+]

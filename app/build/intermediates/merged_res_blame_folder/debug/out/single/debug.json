@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\layout_activity_question.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\drawable_questionsbackground.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\drawable\\questionsbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\layout_activity_right.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\raw_wrong.mp3.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\raw\\wrong.mp3"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\layout_activity_basic_detail.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_basic_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-pngs-10:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\raw_medium_score.mp3.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\raw\\medium_score.mp3"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\raw_right.mp3.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\raw\\right.mp3"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\layout_activity_show_score.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_show_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\raw_high_score.mp3.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\raw\\high_score.mp3"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-merged_res-15:\\raw_low_score.mp3.flat",
+        "source": "C:\\Users\\IAT\\.gradle\\daemon\\7.5\\com.example.quiz.app-main-17:\\raw\\low_score.mp3"
+    }
+]

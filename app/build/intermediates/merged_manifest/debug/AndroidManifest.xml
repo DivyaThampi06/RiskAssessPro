@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quiz"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- <activity -->
+        <!-- android:name=".BasicDetailActivity" -->
+        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
+        <!-- android:exported="false" -->
+        <!-- android:label="@string/title_activity_basic_detail" -->
+        <!-- android:theme="@style/AppTheme.Fullscreen" /> -->
+        <activity
+            android:name="com.example.quiz.WrongAnswerBuzz"
+            android:screenOrientation="locked" />
+        <activity
+            android:name="com.example.quiz.Result"
+            android:screenOrientation="locked" />
+        <activity
+            android:name="com.example.quiz.RightAnswerBuzz"
+            android:screenOrientation="locked" />
+        <activity
+            android:name="com.example.quiz.AddingQuestions"
+            android:screenOrientation="locked" />
+        <activity
+            android:name="com.example.quiz.LocationActivity"
+            android:screenOrientation="locked" />
+        <!-- <activity -->
+        <!-- android:name=".StartActivity" -->
+        <!-- android:screenOrientation="locked" /> -->
+        <activity
+            android:name="com.example.quiz.StartActivity"
+            android:screenOrientation="locked" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

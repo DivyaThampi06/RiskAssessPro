@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="play">Start</string>
+    <string name="confirm">Confirm</string>
+    <string name="scores">Your Score:</string>
+    <string name="title_activity_basic_detail">BasicDetailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>
