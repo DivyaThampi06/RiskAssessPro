@@ -1,6 +1,8 @@
 # RiskAssessPro
+
 A simple Android-Java app to calculate the score of financial risk 
-RiskAssessPro RiskAssessPro is a mobile application designed to help users assess their risk tolerance in investing through a series of questions. The app calculates a score based on the user's responses, providing insight into their risk profile.
+
+RiskAssessPro is a mobile application designed to help users assess their risk tolerance in investing through a series of questions. The app calculates a score based on the user's responses, providing insight into their risk profile.
 
 Features Risk Assessment Questionnaire: Users can answer a series of questions related to their investment approach, risk tolerance, and financial goals. Score Calculation: The app calculates a risk assessment score based on the user's responses to the questionnaire. Feedback: Users receive feedback based on their risk assessment score, helping them understand their risk tolerance level. User-Friendly Interface: Intuitive and easy-to-use interface for a seamless user experience. Installation To install RiskAssessPro on your Android device, follow these steps:
 
